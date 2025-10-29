@@ -1,0 +1,8 @@
+{
+  "model_type": "XGBClassifier",
+  "training_date": "2025-10-28 18:42:56",
+  "dataset_size": 2149,
+  "test_accuracy": 0.9512,
+  "test_auc": 0.9526,
+  "input_features": 30
+}
